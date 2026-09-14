@@ -1,10 +1,10 @@
 {
- "generated_at_et": "2026-09-11T09:38:00-04:00",
+ "generated_at_et": "2026-09-14T08:55:03-04:00",
  "source": "unavailable",
  "note": "Real-time Schwab quotes for the Playbook Trading Desk brief. Market data only - no account information. If source is 'unavailable' or generated_at_et is stale, use delayed Yahoo data and say so.",
  "schwab_token": {
-  "days_left": 0.25,
-  "expired": false,
+  "days_left": -2.72,
+  "expired": true,
   "fix": "run scripts/schwab_login.py on the desk machine"
  },
  "symbols": 0,
